@@ -1,0 +1,8 @@
+pypdf
+jinja2
+pdfkit
+PyPDF2
+pdfminer.six
+pdfminer
+openpyxl
+pandas
